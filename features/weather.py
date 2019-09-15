@@ -1,5 +1,4 @@
 import requests
-from rasa.nlu_model import train_nlu
 import string
 
 # Initialize the empty dictionary and lists
