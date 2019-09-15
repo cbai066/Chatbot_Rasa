@@ -1,0 +1,28 @@
+{
+    "update_id": 143930199,
+    "message": {
+        "message_id": 54,
+        "from": {
+            "id": 929926423,
+            "is_bot": false,
+            "first_name": "Carl",
+            "last_name": "Bai",
+            "language_code": "en"
+        },
+        "chat": {
+            "id": 929926423,
+            "first_name": "Carl",
+            "last_name": "Bai",
+            "type": "private"
+        },
+        "date": 1568038316,
+        "text": "/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
