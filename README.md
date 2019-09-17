@@ -4,7 +4,7 @@
 
   * [Introduction.](#introduction)
   * [Getting started.](#getting-started)
-    * [pyTelegramBotAPI](#pyTelegramBotAPI)
+    * [pyTelegramBotAPI](#pytelegrambotapi)
     * [Rasa](#rasa)
       * [Quick Installation](#quick-installation)
       * [Building from Source](#building-from-source)
@@ -13,7 +13,7 @@
   * [Usage](#usage)
   * [Declaration](#declaration)
     * [API Import](#api-import)
-    * [Rasa Construction](#rasa-Construction)
+    * [Rasa Construction](#rasa-construction)
   * [Examples for some demos](#examples-for-some-demos)
   * [Reference](#reference)
   * [Epilogue](#epilogue)
@@ -72,7 +72,7 @@ pip install rasa-nlu
 If the above steps can solve your problem, please go to the official website of <a href="https://rasa.com/docs/rasa/user-guide/installation/#">Rasa</a> for help
 
 ## Usage
-If you have finished all the configuration of your environment, technically you can just run the bot.py (on the root directory).</br> 
+If you have finished all the configuration of your environment, technically you can just run the `bot.py` (on the root directory).</br> 
 With the program running, you can go to the telegram, using your own account, to chat with this cute chatbot :)</br>
 (You'd better talk to the robot after the fitting work is done)
 </br>
